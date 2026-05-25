@@ -143,7 +143,3 @@ This project is open source and available under the MIT License.
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
----
-
-**For detailed code explanations**, refer to [DEVELOPER_GUIDE.md](DEVELOPER_GUIDE.md)
